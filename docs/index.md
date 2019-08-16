@@ -9,9 +9,9 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 [Contact Us](./contact-us.html) 
 
 
-There should be whitespace between paragraphs.
+Welcome! StreetShield , a product of BlueRidge Labs and Picture the Homeless, is an anonymous complaint texting and phone line, created with homeless activists, for homeless activists.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+![Cards](https://github.com/bauer1331/streetshield/raw/master/media/streetshield_card.png)
 
 # Header 1
 
