@@ -4,8 +4,10 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[About](./about.html)
-[Contact Us](./contact-us.html)
+[About](./about.html)  
+[How It Works](./how-it-works.html)  
+[Contact Us](./contact-us.html) 
+
 
 There should be whitespace between paragraphs.
 
